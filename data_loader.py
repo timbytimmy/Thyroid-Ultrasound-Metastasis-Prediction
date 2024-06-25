@@ -3,7 +3,7 @@ from PIL import Image
 import numpy as np
 
 # Path to your dataset
-data_dir = 'C:/Users/timmy/Desktop/Thyroid Ultrasound Metastasis Prediction/dataset'
+data_dir = 'dataset PATH'
 
 
 # Function to load images
