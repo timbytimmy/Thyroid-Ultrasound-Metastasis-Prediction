@@ -5,7 +5,7 @@ perform "metastatic" and "non-metastatic" classification on thyroid oltrasound i
 The project uses a Random Forest Classifier to classify thyroid ultrasound images. The images are preprocessed, split into training, validation, and test sets, and then fed into the classifier. The model's performance is evaluated using accuracy and a confusion matrix.
 
 ## Dataset
-The dataset consists of thyroid ultrasound images categorized into two classes: "metastatic" and "non-metastatic". The images are resized to 128x128 pixels for uniformity.
+The dataset should consists of thyroid ultrasound images categorized into two classes: "metastatic" and "non-metastatic"
 
 ## Installation
 To get started, clone the repository and install the required packages:
